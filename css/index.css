@@ -1,3 +1,22 @@
 .red{
     color:red;
 }
+
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+
+#container{
+    display: flex;
+}
+
+.sidebar{
+    width: 30%;
+}
+
+.content{
+    width: 70%;
+}
