@@ -13,3 +13,16 @@ h3 {
     text-align: center;
     font-family: serif;
 }
+
+p {
+   font-weight: bold; 
+}
+body {
+    background-color: rgb(152, 231, 242);
+}
+
+.small-image {
+    width: 500;  
+    height: 300px;
+    text-align: center;  
+}
