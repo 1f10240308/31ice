@@ -22,7 +22,9 @@ body {
 }
 
 .small-image {
-    width: 500;  
-    height: 300px;
-    text-align: center;  
+    width: 600px;  
+    height: auto;  
+}
+.container {
+    text-align: center;
 }
